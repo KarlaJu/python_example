@@ -4,3 +4,5 @@ print('''A string with
   three simple quotes''')
 print("""A string with
   three double quotes""")
+
+print(type("Return the data type"))
