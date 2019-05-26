@@ -20,3 +20,12 @@ print(7.3)
 print("The boolean values")
 print(True)
 print(False)
+
+#List
+print("The lists")
+print([1, 2, 3, 4])
+print([1, "Hello", 1.2, True])
+
+#Tuples
+print("Tuples")
+print(200,"Ok")
